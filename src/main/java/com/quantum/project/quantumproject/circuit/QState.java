@@ -10,8 +10,10 @@ import java.util.List;
 @Data
 public class QState {
     private Complex[] state;
+    private int qBits;
 
     public QState (){
+        qBits = 2;
         state = new Complex[2];
         state[0] = Complex.ONE;
         state[1] = Complex.ZERO;
