@@ -113,8 +113,4 @@ public class QCircuit {
         for (i = 0; i < arr.size(); i++)
             codes.add(arr.get(i));
     }
-
-    private void printMatrix() {
-
-    }
 }
