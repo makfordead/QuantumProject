@@ -1,6 +1,6 @@
 package com.quantum.project.quantumproject.circuit;
 
-import com.quantum.project.quantumproject.MatrixUtils;
+import com.quantum.project.quantumproject.util.MatrixUtils;
 import com.quantum.project.quantumproject.gates.Gate;
 import org.apache.commons.math3.complex.Complex;
 import java.util.ArrayList;

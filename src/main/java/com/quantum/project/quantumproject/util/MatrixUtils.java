@@ -1,4 +1,4 @@
-package com.quantum.project.quantumproject;
+package com.quantum.project.quantumproject.util;
 
 import org.apache.commons.math3.complex.Complex;
 
